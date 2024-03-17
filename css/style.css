@@ -19,6 +19,12 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
+
+.for {
+  color:bisque;
+  text-align: center;
+  margin-top: .5rem;
+}
 .night {
   position: fixed;
   left: 50%;
